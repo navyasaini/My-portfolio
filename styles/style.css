@@ -5,8 +5,10 @@ body{
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.8),
     rgba(0,0,0,0.2)),
-    url('../images/background.jpg');
+    url('../images/background2.jpg');
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .intro{
     color: whitesmoke;
@@ -17,6 +19,6 @@ body{
 
 }
 .name{
-    font-size:50em ;
+    font-size:3em ;
     font-weight: 500;
 }
